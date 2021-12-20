@@ -1,0 +1,16 @@
+{
+    "name": "wonderbit/hello-world",
+    "description": "Hello World",
+    "autoload": {
+        "psr-4": {
+            "Wonderbit\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Henning Horn",
+            "email": "hh@henninghorn.dk"
+        }
+    ],
+    "require": {}
+}
